@@ -167,6 +167,14 @@ header .fa-bars{
     font-size: 2rem;
 }
 
+.single-product h1{
+    font-size: 6rem;
+}
+
+.single-product h4{
+    font-size: 3rem;
+}
+
 input:focus{
     outline: none;
 }
